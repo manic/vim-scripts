@@ -1,0 +1,12 @@
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "bundle/vim-nerdtree"]
+	path = bundle/vim-nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = git://github.com/msanders/snipmate.vim.git
+[submodule "bundle/vim-autocomplpop"]
+	path = bundle/vim-autocomplpop
+	url = git://github.com/vim-scripts/AutoComplPop.git
