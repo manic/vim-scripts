@@ -10,3 +10,9 @@
 [submodule "bundle/vim-autocomplpop"]
 	path = bundle/vim-autocomplpop
 	url = git://github.com/vim-scripts/AutoComplPop.git
+[submodule "bundle/vim-pdv"]
+	path = bundle/vim-pdv
+	url = git://github.com/vim-scripts/PDV--phpDocumentor-for-Vim.git
+[submodule "bundle/vim-simple-javascript-indenter"]
+	path = bundle/vim-simple-javascript-indenter
+	url = git://github.com/JiangMiao/simple-javascript-indenter.git
